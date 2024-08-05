@@ -1,7 +1,8 @@
+import Notes from "./pages/notes/Notes";
 
 function App() {
   return (
-  <h1>notes</h1>
+      <Notes/>
   );
 }
 
